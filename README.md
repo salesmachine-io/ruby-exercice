@@ -6,7 +6,7 @@ The main goal is to test how you write code (var naming, comments, separation of
 
 For each step, it's highly recommended to write rspec tests to validate your code. The first example contains rspec tests, the second not, so you will have to complete it.
 
-So here it starts, the first component to write is a CSV parser which take any kind of CSV file and to extract an array of *contact* hashes. Of course you can CSV parser form ruby std lib.
+So here it starts, the first component to write is a CSV parser which take any kind of CSV file and to extract an array of *contact* hashes. Of course you can use the CSV parser form ruby std lib.
 
 I wrote the skeleton of a rspec test for this component, you have to complete it.
 
